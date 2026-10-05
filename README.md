@@ -7,6 +7,10 @@ Evolução do aplicativo do CP4 para uma **lista de tarefas com autenticação e
 - Giovanna Bardella Gomes — RM 561439
 - Erick Takeshi Andrade Nakajune — RM 566059
 
+## Vídeo de Apresentação
+
+https://youtube.com/shorts/Cu2WKLBjkfQ?is=oiJmWuGc4cIlWxcj
+
 ## Funcionalidades
 
 - Cadastro com nome, e-mail, senha e confirmação; login; recuperação de senha.
