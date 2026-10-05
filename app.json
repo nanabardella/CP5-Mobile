@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "CP5 Minhas Tarefas",
+    "slug": "cp5-minhas-tarefas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f6f7fb"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}

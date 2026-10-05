@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+.expo-shared/
+*.log
+.DS_Store
+.tools/
+dist/
+CP4Mobile-entrega/
+CP5-enunciado.txt
+pdf-streams.txt
+decode-pdf.ps1
+CP5-Mobile-entrega.zip
